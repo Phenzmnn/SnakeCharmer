@@ -5,7 +5,7 @@ This script is specifically written for the half-automatic pipe bending machine 
 # How to use the Script
 
  1. Export a single polyline as '.dxf'. (In Rhinoceros, select line, type '_Export'. If you would like to bend serveral pipes, treat them separately)
- 2. Go to https://app.shapediver.com/m/biegemaschine-v3-3.
+ 2. Go to https://www.shapediver.com/app/m/biegemaschine-v3-3.
  3. Upload '.dxf' via 'Import .dxf'
  4. Ignore 'closed loop' (At least for now)
  5. Insert your pipe diameter under 'a'
